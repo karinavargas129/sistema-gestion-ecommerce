@@ -1,4 +1,9 @@
-# Sistema de Gestión de E-commerce - Etapa 1: Planeación
+## Información del estudiante:
+* **Estudiante:** Karina Vargas Leticia
+* **Docente:** Ing. Milton Ricardo Palacios Morocho
+* **Institución:** Universidad Internacional del Ecuador (UIDE)
+  
+# Sistema de Gestión de E-commerce - Etapa 1: Planeación 
 
 Este repositorio lo creé para armar la planeación de mi proyecto de la Unidad 1. La idea en esta etapa es dejar listo cómo va a funcionar el sistema y cómo voy a organizar todo antes de ponerme a escribir código en Go.
 
@@ -14,7 +19,4 @@ Para trabajar de forma ordenada y que el código no sea un caos, organicé el re
 * **Lenguaje:** Go (Golang)
 * **Control de versiones:** Git y GitHub
 
-## Información del Proyecto
-* **Estudiante:** Karina Vargas
-* **Docente:** Ing. Milton Ricardo Palacios Morocho
-* **Institución:** Universidad Internacional del Ecuador (UIDE)
+
