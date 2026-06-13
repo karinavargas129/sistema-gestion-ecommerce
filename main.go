@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-type OperacionEcommerse interface {
+type OperacionEcommerce interface {
 	Procesar() error
 	MostrarDetalles()
 }
@@ -62,7 +62,7 @@ func main() {
 
 	p := NuevoProducto(101, "Laptop Core i7", 850.00, 5)
 
-	var op OperacionEcommerse = p
+	var op OperacionEcommerce = p
 
 	fmt.Println("Datos:")
 	op.MostrarDetalles()
